@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o Douglas</h1>
 <h3 align="center">Apaixonado por análise de dados e esportes 📊🏀</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Lebron "King" James](https://app.powerbi.com/view?r=eyJrIjoiNTRjZGRiZWMtNDNkYS00NTYwLWFmMWUtZDkzMzE0ZTA0MTU1IiwidCI6IjJhMGIyMDlhLTFmOGEtNDNhMy04YWY4LTlkNTM0M2VjNWE2NiJ9)
-
 - 🌱 Atualmente estou aprendendo **MongoDB**
 
 - 💬 Me pergunte sobre **Power BI, SQL Server e Figma**
